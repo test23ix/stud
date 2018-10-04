@@ -3,6 +3,7 @@
 # how to run:
 #    pytest-3 matrixmult.py
 
+return 1
 
 import pytest
 import numpy as np
