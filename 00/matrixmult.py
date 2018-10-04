@@ -1,5 +1,5 @@
-#! /usr/bin/env python3
-
+#! usr/bin/env python3
+#
 # how to run:
 #    pytest-3 matrixmult.py
 
